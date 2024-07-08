@@ -5,5 +5,6 @@ if first == second == third:
     print(3)
 elif first == second or second != third:
     print(2)
-else: first != second != third and first != third
+else:
+    var = first != second != third and first != third
 print(0)
